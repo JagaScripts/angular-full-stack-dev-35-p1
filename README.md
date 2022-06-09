@@ -1,5 +1,7 @@
 # AngularFullStackDevU35
 
+Este repositorio corresponde al ejercicio realizado en la formación de Angular Basics Full Stack Developer, concretamente a la unidad 35 UD35 - Angular componentes problema 1 Jose A González Alcántara
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
