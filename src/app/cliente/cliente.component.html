@@ -1,0 +1,19 @@
+<div class="text-center">
+
+  <h1>Listado clientes</h1>
+
+  <table class="table text-center">
+    <tr class="col-6">
+      <th>Nombre</th>
+      <th>Direccion</th>
+      <th>Cif</th>
+      <th>Grupo</th>
+    </tr>
+    <tr  *ngFor="let cliente of clientes">
+      <td> {{cliente.nombre}}</td>
+      <td> {{cliente.direccion}}</td>
+      <td> {{cliente.cif}}</td>
+      <td> {{cliente.grupo}}</td>
+    </tr>
+  </table>
+  </div>
